@@ -33,11 +33,17 @@ Objective
 How It Works
 
 ○ The snake head follows the mouse cursor.
+
 ○ Collect glowing orbs to earn points.
+
 ○ Each orb collected increases the snake's length.
+
 ○ Longer snakes earn more points per orb.
+
 ○ Avoid colliding with your own tail.
+
 ○ Avoid hitting moving obstacle balls.
+
 ○ Survive as long as possible to achieve the highest score.
 
 | Key/Input      | Action                  |
