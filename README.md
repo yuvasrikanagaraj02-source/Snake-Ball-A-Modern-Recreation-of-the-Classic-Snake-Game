@@ -5,6 +5,7 @@ Snake Ball is a modern arcade-style game developed using Python, OpenCV, and Num
 Players control a chain of connected ball segments that follows the mouse cursor in real time. The objective is to collect glowing energy orbs to increase the score and grow the snake while avoiding collisions with both moving obstacles and the snake's own tail. As the snake grows longer, the challenge intensifies, requiring greater precision and strategic movement.
 
 Key Features
+
 ✔ Smooth mouse-based controls
 
 ✔ Dynamic snake growth system
@@ -70,7 +71,7 @@ Maximum level is capped to maintain balanced gameplay.
 
 Installation
 1. Clone the Repository
-   git clone https://github.com/yourusername/snake-ball.git
+   git clone https://github.com/yuvasrikanagaraj02-source/Snake-Ball-A-Modern-Recreation-of-the-Classic-Snake-Game
    cd snake-ball
 2. Install Dependencies
    pip install opencv-python numpy
