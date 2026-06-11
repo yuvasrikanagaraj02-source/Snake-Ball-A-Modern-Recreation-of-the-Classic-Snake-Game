@@ -56,15 +56,21 @@ How It Works
 Scoring System
 
 ● The scoring mechanism is based on the current length of the snake.
+
 ● Points Earned = Current Snake Length
+
 ● This rewards players who successfully manage longer snakes and survive for extended periods.
 
 Level Progression
 
 ○ The game includes an automatic level progression system.
+
 ○ Levels increase as the score grows.
+
 ○ Snake movement speed gradually increases.
+
 ○ Higher levels create a more challenging gameplay experience.
+
 ○ Maximum level is capped to maintain balanced gameplay.
 
 | Technology    | Purpose                                 |
