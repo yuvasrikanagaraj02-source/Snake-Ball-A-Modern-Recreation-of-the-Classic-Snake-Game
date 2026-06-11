@@ -84,10 +84,11 @@ Level Progression
 Installation
 1. Clone the Repository
    git clone https://github.com/yuvasrikanagaraj02-source/Snake-Ball-A-Modern-Recreation-of-the-Classic-Snake-Game
+   
    cd snake-ball
-2. Install Dependencies
+3. Install Dependencies
    pip install opencv-python numpy
-3. Run the Game
+4. Run the Game
    python snake_ball.py
 
 
