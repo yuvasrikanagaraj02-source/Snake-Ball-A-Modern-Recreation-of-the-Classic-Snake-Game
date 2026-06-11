@@ -1,5 +1,5 @@
 # Snake-Ball-A-Modern-Recreation-of-the-Classic-Snake-Game
-🎮 Snake Ball
+🎮 𝙎𝙣𝙖𝙠𝙚 𝘽𝙖𝙡𝙡
 
 ● Snake Ball is a modern arcade-style game developed using Python, OpenCV, and NumPy. The game reimagines the classic Snake experience with smooth mouse-based controls, dynamic visual effects, progressive difficulty, and engaging gameplay mechanics.
 
