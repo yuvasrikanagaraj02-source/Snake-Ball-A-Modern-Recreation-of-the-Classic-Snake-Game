@@ -87,8 +87,10 @@ Installation
    
    cd snake-ball
 3. Install Dependencies
+   
    pip install opencv-python numpy
-4. Run the Game
+5. Run the Game
+
    python snake_ball.py
 
 
